@@ -1,5 +1,5 @@
 <template>
-  <nav id="pokenav" class="navbar sticky-top navbar-light bg-light">
+  <nav id="pokenav" class="navbar sticky-top navbar-light mb-5 py-0">
     <div class="container-xxl">
       <a
         v-if="$route.name == 'home'"
@@ -55,5 +55,10 @@ export default {
 #pokenav {
   top: 0;
   transition: top 0.3s;
+  background-color: #c71210;
+}
+
+#pokenav a{
+  color: white;
 }
 </style>

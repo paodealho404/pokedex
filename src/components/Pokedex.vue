@@ -1,6 +1,12 @@
 <template>
-  <div class="">
-    <h1 class="text-center text-dark"><strong>Pokédex!</strong></h1>
+  <div>
+    <div class="row justify-content-center">
+      <div class="col-2 d-flex">
+        <img src= "../assets/img/pokedex_logo.svg" class="w-25"/>
+        <h1 class="text-center text-dark align-self-end mx-2"><strong>Pokédex!</strong></h1>
+        </div>
+    </div>
+    
     <SearchBar v-if="resultsList" :results="resultsList" />
     <div class="row">
       <div

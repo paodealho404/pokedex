@@ -79,3 +79,78 @@
 .loading {
     background-color: #b1b1b1 !important;
 }
+.fire_font {
+    color: #ee420e !important;
+}
+
+.water_font {
+    color: #0c67c2 !important;
+}
+
+.grass_font {
+    color: #3f9f08 !important;
+}
+
+.bug_font {
+    color: #8e9c11 !important;
+}
+
+.poison_font {
+    color: #6b246e !important;
+}
+
+.ice_font {
+    color: #34f0f9 !important;
+}
+
+.normal_font {
+    color: #ada594 !important;
+}
+
+.fighting_font {
+    color: #722c17 !important;
+}
+
+.electric_font {
+    color: #fbb917 !important;
+}
+
+.flying_font {
+    color: #9f6ec1 !important;
+}
+
+.dragon_font {
+    color: #4e3ba4 !important;
+}
+
+.rock_font {
+    color: #9e863d !important;
+}
+
+.ground_font {
+    color: #ad8c33 !important;
+}
+
+.steel_font {
+    color: #8e8e9f !important;
+}
+
+.ghost_font {
+    color: #454593 !important;
+}
+
+.fairy_font {
+    color: #eba1eb !important;
+}
+
+.psychic_font {
+    color: #dc3165 !important;
+}
+
+.dark_font {
+    color: #3c2d23 !important;
+}
+
+.loading_font {
+    color: #b1b1b1 !important;
+}
